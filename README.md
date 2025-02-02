@@ -1,2 +1,2 @@
 # Secret
-we used OAuth for authentication
+We used OAuth for Authentication
